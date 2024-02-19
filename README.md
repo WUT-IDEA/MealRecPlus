@@ -1,7 +1,10 @@
 # $MealRec^+$
 
 ## Contributors
-Ming Li, Lin Li, Xiaohui Tao, Jimmy	Huang
+Ming Li, Wuhan University of Technology; 
+Lin Li, Wuhan University of Technology;
+Xiaohui Tao, University of Southern Queensland;
+Jimmy	Huang, York University
 
 ## Data Description
 The suit of $MealRec^+$ datasets we released contains two datasets, $MealRec^+_H$ with a user-meal interaction density of 0.77% and $MealRec^+_L$ with a user-meal interaction density of 0.17%.
