@@ -1,9 +1,12 @@
 # $MealRec^+$
 
 ## Contributors
-Ming Li, Wuhan University of Technology; 
+Ming Li, Wuhan University of Technology;
+
 Lin Li, Wuhan University of Technology;
+
 Xiaohui Tao, University of Southern Queensland;
+
 Jimmy	Huang, York University
 
 ## Data Description
