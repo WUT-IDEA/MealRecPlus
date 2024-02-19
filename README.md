@@ -41,4 +41,4 @@ Each dataset contains files as follows:
     - format: [course id][\tab][course index]
 
 ## Data Loader
-We provide a data loader (data_loader.py) to load relationship data as matrices and healthiness data as array for ease of use. 
+We provide a data loader (data_loader.py) to load relationship data as matrices and healthiness data as arrays for ease of use. 
