@@ -1,0 +1,5 @@
+Because the course.zip and user_course.zip are too large, they are stored with Git LFS. 
+
+To directly clone or download the entire project, only these two files can be downloaded as indexes. 
+
+Please go to the file-specific page and click the download button to download.
