@@ -30,6 +30,15 @@ Each dataset contains files as follows:
       - format: [healthiness score] *(line index == meal index)*
     - **user_fsa.txt/user_who.txt**: Mean FSA/WHO healthiness scores of meals that each user has interacted with historically
       - format: [healthiness score] *(line index == user index)*
+- **meta information**
+  - **course.csv**: meta data of course;
+    - fileds: course_id, course_name, review_nums, category, aver_rate, image_url, ingredients, cooking_directions, nutritions, reviews, tags
+  - **user_course.csv**: meta data of user-course interaction;
+    - fileds: user_id, course_id, rating, dateLastModified
+  - **user2index.txt**: a mapping from user id to user index;
+    - format: [user id][\tab][user index]
+  - **course2index.txt**: a mapping from course id to course index;
+    - format: [course id][\tab][course index]
 
 ## Data Loader
 We provide a data loader (data_loader.py) to load relationship data as matrices and healthiness data as array for ease of use. 
