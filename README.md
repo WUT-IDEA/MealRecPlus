@@ -5,6 +5,8 @@ If you use this dataset, please cite it in your paper:
 
 **Ming Li, Lin Li, Xiaohui Tao, and Jimmy Xiangji Huang. 2024. MealRec+: A Meal Recommendation Dataset with Meal-Course Affiliation for Personal- ization and Healthiness. In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’24), July 14–18, 2024, Washington, DC, USA. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3626772.3657857**
 
+This paper is available in arxiv https://arxiv.org/abs/2404.05386
+
 
 ## Contributors
 Ming Li, Wuhan University of Technology, China;
