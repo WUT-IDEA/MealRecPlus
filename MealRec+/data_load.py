@@ -192,3 +192,7 @@ def get_dataset(path, name, task='tune', seed=123):
 
     return meal_train_data, meal_test_data, course_data, affiliation_data, category_data
 
+path = os.path.dirname(__file__)
+#name = "MealRec+L"
+name = "MealRec+H"
+train, test, course, aff, cat = get_dataset(path, "MealRec+H")
