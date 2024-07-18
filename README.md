@@ -50,3 +50,6 @@ Each dataset contains files as follows:
 
 ## Data Loader
 We provide a data loader (data_loader.py) to load relationship data as matrices and healthiness data as arrays for ease of use. 
+
+## Acknowledge
+Thanks to Nathan Nichols for the suggestion on data loader code.
