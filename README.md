@@ -51,5 +51,8 @@ Each dataset contains files as follows:
 ## Data Loader
 We provide a data loader (data_loader.py) to load relationship data as matrices and healthiness data as arrays for ease of use. 
 
+## Healthiness Metrics Evaluating
+We provide evaluation codes (healthiness_eval.py) for two healthiness metrics: FSA/WHO healthiness socre and ranking exposure.
+
 ## Acknowledge
 Thanks to Nathan Nichols for the suggestion on data loader code.
